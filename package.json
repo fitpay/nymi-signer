@@ -1,0 +1,17 @@
+{
+  "name": "nymi-signer",
+  "version": "1.0.0",
+  "description": "Nymi Signature Generation and Verification API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "elliptic": "^0.15.14",
+    "express": "^4.10.2",
+    "nconf": "^0.6.9"
+  }
+}
